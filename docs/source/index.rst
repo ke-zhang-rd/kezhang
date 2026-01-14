@@ -11,7 +11,7 @@ kezhang Documentation
    :maxdepth: 1
 
    about
-   pdf/test.ipynb
+   examples/virtual_rigid_kinematics.ipynb
    projects
    courses
    patents
