@@ -10,7 +10,7 @@ kezhang Documentation
    :maxdepth: 2
 
    about
-   pdf/Ke_Zhang_Resume_Phd.pdf
+   pdf/test.ipynb
    projects
    courses
    patents
