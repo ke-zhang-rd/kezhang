@@ -12,6 +12,5 @@ kezhang Documentation
    installation
    usage
    release-history
-   min_versions
    linkedin
    contact
