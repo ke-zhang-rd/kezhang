@@ -13,6 +13,4 @@ kezhang Documentation
    projects
    courses
    patents
-   github
-   linkedin
-   contact
+   links
