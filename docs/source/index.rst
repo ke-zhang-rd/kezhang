@@ -9,8 +9,10 @@ kezhang Documentation
 .. toctree::
    :maxdepth: 2
 
-   installation
-   usage
-   release-history
+   about
+   projects
+   courses
+   patents
+   github
    linkedin
    contact
