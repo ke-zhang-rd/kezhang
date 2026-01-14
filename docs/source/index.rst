@@ -7,7 +7,8 @@ kezhang Documentation
 =====================
 
 .. toctree::
-   :maxdepth: 2
+   :caption: User Guide
+   :maxdepth: 1
 
    about
    pdf/test.ipynb
