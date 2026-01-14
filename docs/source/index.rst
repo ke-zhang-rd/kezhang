@@ -7,7 +7,6 @@ kezhang Documentation
 =====================
 
 .. toctree::
-   :caption: User Guide
    :maxdepth: 1
 
    about
